@@ -9,8 +9,6 @@ import {
   InfoIcon
 } from "@material-ui/core";
 
-import { GetImages } from "./actions";
-
 const memeEndpoint = "https://api.imgflip.com/get_memes";
 
 class ImageGrid extends React.Component {
